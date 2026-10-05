@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Cau1_QuanLyTheLoaiSach/Cau1_QuanLyTheLoaiSach.csproj" />
+  <Project Path="Cau2_QuanLyHoiVien/Cau2_QuanLyHoiVien.csproj" />
+  <Project Path="Cau3_QuanLyPhongHomestay/Cau3_QuanLyPhongHomestay.csproj" />
+  <Project Path="Cau4_QuanLyLichKham/Cau4_QuanLyLichKham.csproj" />
+</Solution>
